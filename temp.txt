@@ -1,0 +1,3 @@
+cd /Applications/Discord.app/Contents/MacOS
+echo "MKL_DEBUG_CPU_TYPE=5 ./Discord" > _discord
+Edit /Applications/Discord.app/Contents/Info.plist and change CFBundleExecutable value to _discord
