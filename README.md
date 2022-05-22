@@ -1,2 +1,2 @@
 # discord-amd-hackintosh-fix
-AMD Discord Voice Chat Fix
+AMD Hackintosh Discord Voice/Screensharing Fix
