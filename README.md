@@ -1,2 +1,2 @@
-# AMD Hackintosh Discord Fix
-AMD Hackintosh Discord Voice/Screensharing Fix
+# AMD Hackintosh Discord Voice/Screensharing bug fix
+Two methods available. Check source for more info.
